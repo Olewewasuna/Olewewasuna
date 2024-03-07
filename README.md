@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olewewasuna
 - 👀 I’m interested in in product developmet and customer facing roles.
 - 🌱 I’m currently learning HTML.
-- 📫 Phone: +357 99142341
+- 📫 Phone: +357 99142341, Email: erickolewe@yahoo.com
 
 <!---
 Olewewasuna/Olewewasuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
